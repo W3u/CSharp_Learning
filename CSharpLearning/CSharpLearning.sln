@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityAndIdentity", "Equa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityAndIdentityTests", "EqualityAndIdentityTests\EqualityAndIdentityTests.csproj", "{8916385B-ACE7-4435-9C85-706BB373B75E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashCodeDemo", "HashCodeDemo\HashCodeDemo.csproj", "{9FE1EB3D-B98E-4AF4-AF1A-C566E44DE94B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashCodeDemoTests", "HashCodeDemoTests\HashCodeDemoTests.csproj", "{7E5526B7-3510-4414-84E3-76B3ECAFD7FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{8916385B-ACE7-4435-9C85-706BB373B75E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8916385B-ACE7-4435-9C85-706BB373B75E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8916385B-ACE7-4435-9C85-706BB373B75E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE1EB3D-B98E-4AF4-AF1A-C566E44DE94B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE1EB3D-B98E-4AF4-AF1A-C566E44DE94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE1EB3D-B98E-4AF4-AF1A-C566E44DE94B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE1EB3D-B98E-4AF4-AF1A-C566E44DE94B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E5526B7-3510-4414-84E3-76B3ECAFD7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E5526B7-3510-4414-84E3-76B3ECAFD7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5526B7-3510-4414-84E3-76B3ECAFD7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E5526B7-3510-4414-84E3-76B3ECAFD7FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
