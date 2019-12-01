@@ -6,7 +6,10 @@
 	- The algorithm should provide a good random distribution.
 	- The fields we use in GetHashCode should be immutable.
 	- If you override the GetHashCode method, you should also override Equals, and vice versa. If your overridden Equals method returns true when two objects are tested for equality, your overridden GetHashCode method must return the same value for the two objects.
-	
+
+**We need to override the GetHashCode method when:**
+1. Defining a customized value type
+2. The Equals method is overridden
 
 
 
