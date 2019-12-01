@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace EqualityAndIdentityDemo.ValueEqualityViaValueType
+namespace EqualityAndIdentity.ValueEqualityViaValueType
 {
     public struct TwoDPoint : IEquatable<TwoDPoint>
     {

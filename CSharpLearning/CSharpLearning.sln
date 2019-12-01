@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpLearning", "CSharpLea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityAndIdentity", "EqualityAndIdentity\EqualityAndIdentity.csproj", "{2AE8B122-5C0E-4CE3-B820-A4D963E9F773}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityAndIdentityTests", "EqualityAndIdentityTests\EqualityAndIdentityTests.csproj", "{8916385B-ACE7-4435-9C85-706BB373B75E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2AE8B122-5C0E-4CE3-B820-A4D963E9F773}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AE8B122-5C0E-4CE3-B820-A4D963E9F773}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AE8B122-5C0E-4CE3-B820-A4D963E9F773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8916385B-ACE7-4435-9C85-706BB373B75E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8916385B-ACE7-4435-9C85-706BB373B75E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8916385B-ACE7-4435-9C85-706BB373B75E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8916385B-ACE7-4435-9C85-706BB373B75E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace EqualityAndIdentityDemo.ValueEqualityViaReferenceType
+namespace EqualityAndIdentity.ValueEqualityViaReferenceType
 {
     /// <summary>
     /// Represents a 2D point.
