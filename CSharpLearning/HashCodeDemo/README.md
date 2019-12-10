@@ -8,7 +8,7 @@
 	- If you override the GetHashCode method, you should also override Equals, and vice versa. If your overridden Equals method returns true when two objects are tested for equality, your overridden GetHashCode method must return the same value for the two objects.
 
 **We need to override the GetHashCode method when:**
-1. Defining a customized value type
+1. Defining a customized value type(the default implementation is using the Reflection mechanism, which results in poor performance)
 2. The Equals method is overridden
 
 
