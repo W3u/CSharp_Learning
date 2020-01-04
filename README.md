@@ -1,5 +1,12 @@
 # CSharp_Learning
 
-1. EqualityAndIdentity: this covers:
+1. CastBetweenTypes
+
+2. EqualityAndIdentity: this covers:
 - Reference Equality vs. Value Equality
 - How to properly implement the Value Equality for both Reference type and Value type
+
+
+3. HashCode
+
+4. PassParamsByRefOrValue
